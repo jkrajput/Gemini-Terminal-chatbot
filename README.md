@@ -23,5 +23,5 @@ This project is perfect for those who want an efficient way to interact with Gem
 
 ## Screenshot  
 Here’s a preview of the chatbot in action:  
-![Gemini Terminal Chatbot Screenshot](![screenshot](https://github.com/user-attachments/assets/f53da546-d439-4824-bdf8-786f940dcfaa)
-)
+![Gemini Terminal Chatbot Screenshot](https://github.com/user-attachments/assets/f53da546-d439-4824-bdf8-786f940dcfaa)
+
